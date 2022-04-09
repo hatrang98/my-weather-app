@@ -1,0 +1,59 @@
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  color: rgb(78, 35, 119);
+}
+form {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.city {
+  font-size: 50px;
+  font-weight: 13px;
+  color: rgb(39, 109, 39);
+}
+.degree {
+  font-size: 50px;
+  font-weight: 13px;
+  color: brown;
+}
+.date {
+  text-align: center;
+  font-size: 30px;
+}
+.icon {
+  text-align: center;
+  font-size: 50px;
+}
+.degreeSmall {
+  text-align: center;
+  font-size: 40px;
+}
+.card-body {
+  background-color: rgb(182, 182, 136);
+}
+#currentTime {
+  text-align: center;
+}
+form {
+  text-align: center;
+  color: rgb(78, 35, 119);
+}
+input {
+  color: rgb(78, 35, 119);
+}
+.forecast {
+  text-align: center;
+  border: 2px black solid;
+  margin: 20px auto;
+  max-width: 800px;
+}
+.button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 15px;
+}
